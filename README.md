@@ -1,4 +1,4 @@
-# ffc-mpdp-postcodes
+# fcp-mpdp-postcodes
 
 Get parliamentary constituency and admin county from Making Payment Data Public (MPDP) data.
 
